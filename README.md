@@ -24,12 +24,8 @@ The purpose of this repository is to:
 ## Technologies and Languages
 - The problems are solved using a variety of programming languages and technologies, depending on the problem type.
 - Languages used include but are not limited to:
-  - Python
   - Java
-  - JavaScript
   - C++
-  - SQL
-  - HTML/CSS (for web-related problems)
 
 ## Contributing
 This folder is a personal collection, but if you'd like to contribute or suggest improvements, feel free to:
