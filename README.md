@@ -1,9 +1,5 @@
 ## 🚀 Competitive Programming Profiles
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-Oqab-blue?style=flat&logo=codeforces)](https://codeforces.com/profile)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Omdeh-orange?style=flat&logo=leetcode)](https://leetcode.com)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-Omdeh4-brightgreen?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile)  
-
 
 
 
